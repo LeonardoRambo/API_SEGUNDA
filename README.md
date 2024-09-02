@@ -1,0 +1,2 @@
+# API_SEGUNDA
+Projeto de API da materia DESENVOLVIMENTO DE SOFTWARE VISUAL, 2° semestre de 2024
